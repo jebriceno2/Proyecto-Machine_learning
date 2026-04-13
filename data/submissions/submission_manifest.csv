@@ -1,5 +1,5 @@
 upload_order,model_name,variant,estimated_local_accuracy,estimated_local_macro_f1,submission_path
-1,char_plain_2_5_linsvc_c12,raw,0.29469829644960993,0.28782764887713175,data\submissions\01_char_plain_2_5_linsvc_c12_raw.csv
-2,char_plain_1_5_linsvc_c08,raw,0.29422066549912435,0.28646780912031206,data\submissions\02_char_plain_1_5_linsvc_c08_raw.csv
-3,char_plain_2_5_linsvc_c08,raw,0.29374303454863876,0.285740387054662,data\submissions\03_char_plain_2_5_linsvc_c08_raw.csv
-4,char_plain_2_6_linsvc_c12,raw,0.2919917210635249,0.28529786040960337,data\submissions\04_char_plain_2_6_linsvc_c12_raw.csv
+1,char_plain_2_5_linsvc_c12,raw,0.2945390861327814,0.28779255616538424,data\submissions\01_char_plain_2_5_linsvc_c12_raw.csv
+2,char_plain_1_5_linsvc_c08,raw,0.29422066549912435,0.286477267482452,data\submissions\02_char_plain_1_5_linsvc_c08_raw.csv
+3,char_plain_2_5_linsvc_c08,raw,0.2934246139149817,0.2853570877092619,data\submissions\03_char_plain_2_5_linsvc_c08_raw.csv
+4,char_plain_2_6_linsvc_c08,raw,0.2910364591625537,0.28311560519412016,data\submissions\04_char_plain_2_6_linsvc_c08_raw.csv

@@ -37,6 +37,7 @@ La primera version prioriza modelos clasicos robustos para texto historico con O
 - `TF-IDF` de caracteres + `LinearSVC`
 - variantes con `char` y `char_wb`
 - una variante combinada de palabras + caracteres
+- una variante por arboles con `TF-IDF` + `TruncatedSVD` + `RandomForestClassifier`
 
 ## Ejecucion
 
