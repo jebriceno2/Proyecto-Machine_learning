@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(cp /home/negativerir/dev/Proyecto-Machine_learning/notebooks/proyecto_final_mejorado_v3.ipynb /home/negativerir/dev/Proyecto-Machine_learning/entrega_1/notebooks/ && cp /home/negativerir/dev/Proyecto-Machine_learning/data/submissions/*.csv /home/negativerir/dev/Proyecto-Machine_learning/entrega_1/submissions/ && ls /home/negativerir/dev/Proyecto-Machine_learning/entrega_1/notebooks/ && ls /home/negativerir/dev/Proyecto-Machine_learning/entrega_1/submissions/)",
+      "Bash(python3 -c \"import sentence_transformers; print\\('sentence-transformers ok'\\)\")",
+      "Bash(python3 -c \"import sklearn; print\\('sklearn:', sklearn.__version__\\)\")",
+      "Bash(pip install *)",
+      "Bash(awk '{print \"CPU%:\", $3, \"TIME:\", $10, \"PID:\", $2}')"
+    ],
+    "additionalDirectories": [
+      "/home/negativerir/dev/Proyecto-Machine_learning/data/submissions"
+    ]
+  }
+}

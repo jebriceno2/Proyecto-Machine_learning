@@ -5,3 +5,7 @@ __pycache__/
 .vscode/
 models/*.joblib
 models/*.pkl
+entrega_2/submissions/*.npy
+entrega_2/submissions/*.pt
+*.npy
+*.pt
